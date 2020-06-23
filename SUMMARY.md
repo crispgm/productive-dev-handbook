@@ -1,0 +1,22 @@
+# Table of contents
+
+* [Productive Dev](README.md)
+* [Setup](setup/README.md)
+  * [Operating System](setup/operating-system/README.md)
+    * [Linux](setup/operating-system/linux.md)
+    * [macOS](setup/operating-system/macos.md)
+    * [Windows](setup/operating-system/windows.md)
+  * [Bootstrap](setup/bootstrap.md)
+* [Languages](languages/README.md)
+  * [Golang](languages/golang.md)
+  * [JavaScript](languages/javascript.md)
+  * [Ruby](languages/ruby.md)
+* [Tools](tools/README.md)
+  * [Git](tools/git.md)
+  * [fzf](tools/fzf.md)
+  * [Visual Studio Code](tools/visual-studio-code.md)
+  * [vim/neovim](tools/vim-neovim.md)
+  * [Web Proxy - Charles](tools/web-proxy-charles.md)
+  * [JSON Debugging - jq](tools/json-debugging-jq.md)
+  * [HTTP Client - postman](tools/http-client-postman.md)
+
